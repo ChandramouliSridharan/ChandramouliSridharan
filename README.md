@@ -4,11 +4,7 @@
 ## 💼 About Me
 
 I'm a **Software Engineer** with over **2 years of experience** in full-stack development, software testing, and system design. I’m passionate about building secure, scalable applications, solving real-world problems, and continuously learning new technologies.
-
-Currently, I’m pursuing my **Master’s in Computer Science** at the **University of Texas at Arlington**, where I also serve as a **Graduate Research Assistant**, contributing to GIS-driven sustainability and energy projects.
-
-📌 Actively seeking full-time software engineering roles starting **July 2025**  
-🌎 Open to relocation  
+🎓 I recently completed my **Master’s in Computer Science** at the **University of Texas at Arlington**, where I also served as a **Graduate Research Assistant**, contributing to GIS-driven sustainability and energy projects with a focus on orphaned oil wells, tribal lands, and amenity equity using ArcGIS, Python, and SQL. My background spans building scalable applications using C# .NET, microservices architecture, REST APIs, and cloud platforms like Microsoft Azure.
 
 ---
 
