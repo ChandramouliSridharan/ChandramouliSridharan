@@ -12,11 +12,13 @@ I'm a **Software Engineer** with over **2 years of experience** in full-stack de
 ## 🛠️ Technical Skills
 
 - **Languages:** C#, Python, Java, JavaScript, SQL, C, C++, PHP  
-- **Web Development:** ASP.NET (Core & MVC), HTML, CSS, React Native, Bootstrap, JSON  
+- **Web Development:** ASP.NET (Core & MVC), HTML, CSS, React Native, Bootstrap, JSON.
+- **Python Libraries:** Pandas, NumPy, Pytest, PyTorch, Sckit Learn, Tensorflow, Natural Language Processing (NLP), MatplotLib.
 - **Databases:** MS SQL Server, MySQL, Firebase  
 - **Cloud & Tools:** Microsoft Azure, Git/GitHub, Jira, Power BI, Visual Studio, ArcGIS  
-- **Testing & Frameworks:** xUnit, nUnit, Fluent Assertions, TDD, Selenium  
-- **Others:** Agile, SDLC, Multithreading, REST APIs, WPF, WinForms, UML  
+- **Testing & Frameworks:** xUnit, nUnit, Fluent Assertions, TDD, Selenium
+- **Tools/Services:** ArcGIS Online and Pro, Jira, Git/GitHub, Visual Studio, Visio, Excel, Microsoft Office 365, Power BI.
+- **Others:** Agile Methodology, SDLC, REST APIs, WPF, WinForms, UML  
 
 ---
 
@@ -25,15 +27,14 @@ I'm a **Software Engineer** with over **2 years of experience** in full-stack de
 ### 💡 Graduate Research Assistant – University of Texas at Arlington  (Sept 2023 - May 2025)
 - Conducted GIS-based analysis on orphaned oil wells and geothermal energy potential  
 - Built optimization models for county-level amenities across 3,000+ US counties  
-- Tools: ArcGIS Pro, Python, SQL  
+- Tools: **ArcGIS Pro, Python, SQL**
 
 ### 🧠 Software Engineer – Advantest India Pvt Ltd  (Oct 2022- Jul 2023)
-- Developed microservice-based applications using ASP.NET and SQL Server  
-- Led a team of 3, followed Agile practices, and improved system performance by 10%  
+- Developed microservice-based console applications using **C# ASP.NET and SQL Server**
 - Implemented TDD with xUnit/nUnit and enhanced multithreading for performance boost  
 
 ### 🌐 Programmer Analyst Trainee – Cognizant  (Mar 2021 - May 2022)
-- Built full-stack applications using C#, HTML, CSS, JavaScript, REST APIs  
+- Built full-stack applications using **C#, HTML, CSS, JavaScript, REST APIs** 
 - Learned industry best practices through real-world project involvement  
 
 ---
