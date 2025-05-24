@@ -1,10 +1,4 @@
 # 👋 Hi, I'm Chandramouli Munjurpet Sridharan (Chandra Sridharan)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandramoulisridharan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://chandramoulisridharan.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/ChandramouliSridharan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:chandramoulisridharan.14@gmail.com)
-
 ---
 
 ## 💼 About Me
