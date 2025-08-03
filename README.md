@@ -3,7 +3,7 @@
 
 ## 💼 About Me
 
-I'm a **Software Engineer** with over **2 years of experience** in full-stack development, software testing, and system design. I’m passionate about building secure, scalable applications, solving real-world problems, and continuously learning new technologies.
+I'm a **Software Engineer** at **Siemens** with over **2 years of experience** in full-stack development, software testing, and system design. I’m passionate about building secure, scalable applications, solving real-world problems, and continuously learning new technologies.
 
 🎓 I recently completed my **Master’s in Computer Science** at the **University of Texas at Arlington**, where I also served as a **Graduate Research Assistant**, contributing to GIS-driven sustainability and energy projects with a focus on orphaned oil wells, tribal lands, and amenity equity using ArcGIS, Python, and SQL. My background spans building scalable applications using C# .NET, microservices architecture, REST APIs, and cloud platforms like Microsoft Azure.
 
@@ -12,7 +12,7 @@ I'm a **Software Engineer** with over **2 years of experience** in full-stack de
 ## 🛠️ Technical Skills
 
 - **Languages:** C#, Python, Java, JavaScript, SQL, C, C++, PHP  
-- **Web Development:** ASP.NET (Core & MVC), HTML, CSS, React Native, Bootstrap, JSON.
+- **Web Development:** ASP.NET (Core & MVC), HTML, CSS, React , React Native, Javascript, Bootstrap, JSON.
 - **Python Libraries:** Pandas, NumPy, Pytest, PyTorch, Sckit Learn, Tensorflow, Natural Language Processing (NLP), MatplotLib.
 - **Databases:** MS SQL Server, MySQL, Firebase  
 - **Cloud & Tools:** Microsoft Azure, Git/GitHub, Jira, Power BI, Visual Studio, ArcGIS  
